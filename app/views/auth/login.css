@@ -1,0 +1,5 @@
+@import url(auth.css);
+
+.auth-links{
+  display: grid;
+}
